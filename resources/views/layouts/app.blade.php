@@ -64,7 +64,7 @@
                             <a class="nav-link" href="{{route('clientes.index')}}">Clientes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{route('vehiculos.index')}}">vehiculos</a>
+                            <a class="nav-link" href="{{route('vehiculos.index')}}">Vehiculos</a>
                         </li>
 
 
@@ -76,18 +76,18 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="{{route('users.index')}}">usuarios</a>
+                            <a class="nav-link" href="{{route('users.index')}}">Usuarios</a>
                         </li>
                         {{--
                         <li class="nav-item">
-                            <a class="nav-link" href="{{route('usuarios.index')}}">usuarios</a>
+                            <a class="nav-link" href="{{route('usuarios.index')}}">Usuarios</a>
                         </li>
                         --}}
                         <li class="nav-item">
-                            <a class="nav-link" href="{{route('plans.index')}}">planes</a>
+                            <a class="nav-link" href="{{route('plans.index')}}">Planes</a>
                                 </li>
                         <li class="nav-item">
-                                <a class="nav-link" href="{{route('marcas.index')}}">marcas</a>
+                                <a class="nav-link" href="{{route('marcas.index')}}">Marcas</a>
                         </li>
                         <!--
                         <li class="nav-item">
@@ -95,10 +95,10 @@
                         </li>
                     -->
                         <li class="nav-item">
-                            <a class="nav-link" href="{{route('tipos.index')}}">tipos</a>
+                            <a class="nav-link" href="{{route('tipos.index')}}">Tipos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{route('usos.index')}}">usos</a>
+                            <a class="nav-link" href="{{route('usos.index')}}">Usos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{route('colors.index')}}">Colores</a>
